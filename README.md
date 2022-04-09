@@ -2,7 +2,6 @@
 - 👀 I’m interested in Software developmet & ❤ Games
 - 🌱 I’m currently learning new Technologies
 - 💞️ I’m looking to collaborate on future projects 
-- 📫 How to reach me https://www.instagram.com/ego_est_raj/
 
 <!---
 Arunraj98/Arunraj98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Find me elsewhere🌍
 
 Linkedin: https://www.linkedin.com/in/arunraj98
 
-E-mail: 📧 rajaarun384@gmail.com
+E-mail: rajaarun384@gmail.com
 
 IG: https://www.instagram.com/ego_est_raj/
 
