@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Arunraj98
-- 👀 I’m interested in Software developmet & Games
-- 🌱 I’m currently learning MERN stack
+- 👋 Hi, I’m @Arunraj A
+- 👀 I’m interested in Software developmet & ❤ Games
+- 🌱 I’m currently learning new Technologies
 - 💞️ I’m looking to collaborate on future projects 
 - 📫 How to reach me https://www.instagram.com/ego_est_raj/
 
