@@ -11,10 +11,10 @@ You can click the Preview link to take a look at your changes.
 
 Find me elsewhere🌍
 
-Linkedin: https://www.linkedin.com/in/arunraj98
+https://www.linkedin.com/in/arunraj98
 
-E-mail: rajaarun384@gmail.com
+rajaarun384@gmail.com
 
-IG: https://www.instagram.com/ego_est_raj/
+https://www.instagram.com/ego_est_raj/
 
-FB: https://www.facebook.com/profile.php?id=100006522076766
+https://www.facebook.com/profile.php?id=100006522076766
