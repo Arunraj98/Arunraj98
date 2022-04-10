@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Arunraj A</h1>
-
-![0d3c51af-2bb5-4b5a-a100-67aed14a9a73](https://user-images.githubusercontent.com/67274985/162627166-26c43193-985b-4171-b367-1b4efc35804a.jpg)
-
+<p align="center"><img src="https://user-images.githubusercontent.com/67274985/162627166-26c43193-985b-4171-b367-1b4efc35804a.jpg" alt="0d3c51af-2bb5-4b5a-a100-67aed14a9a73" height="180" width="200"/></p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arunraj98&label=Profile%20views&color=0e75b6&style=flat" alt="arunraj98" /> </p>
@@ -59,7 +57,7 @@ ootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubuser
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>    &emsp; 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 </br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunraj98&show_icons=true&locale=en&layout=compact" alt="arunraj98" height="400" width="500"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arunraj98&show_icons=true&locale=en" alt="arunraj98"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunraj98&" alt="arunraj98"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunraj98&show_icons=true&locale=en&layout=compact" alt="arunraj98" height="400" width="500"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=arunraj98&show_icons=true&locale=en" alt="arunraj98"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arunraj98&" alt="arunraj98"/></p>
 
