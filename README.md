@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Arunraj A</h1>
-<p align="center"><img src="https://user-images.githubusercontent.com/67274985/162627166-26c43193-985b-4171-b367-1b4efc35804a.jpg" alt="0d3c51af-2bb5-4b5a-a100-67aed14a9a73" height="180" width="200"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/67274985/162627166-26c43193-985b-4171-b367-1b4efc35804a.jpg" alt="0d3c51af-2bb5-4b5a-a100-67aed14a9a73" height="180" width="180"/></p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arunraj98&label=Profile%20views&color=0e75b6&style=flat" alt="arunraj98" /> </p>
