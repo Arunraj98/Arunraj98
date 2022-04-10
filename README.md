@@ -30,7 +30,7 @@
 <a href="https://www.behance.net/arunraja8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/arunraja8" height="30" width="40" /></a>
 <a href="https://hashnode.com/@arunraj98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@arunraj98" height="30" width="40" /></a>
 <a href="https://medium.com/@rajaarun384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajaarun384" height="30" width="40" /></a>
-<a href="https://m.youtube.com/channel/ucufqk9-xwgpktqb5pz4axvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://m.youtube.com/channel/ucufqk9-xwgpktqb5pz4axvg" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCUfQK9-xwgPktqB5pZ4axvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://m.youtube.com/channel/ucufqk9-xwgpktqb5pz4axvg" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/arunraj98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/arunraj98" height="30" width="40" /></a>
 </p>
 
