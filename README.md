@@ -1,4 +1,5 @@
                                                             - 👋 Hi, I’m @Arunraj A
+                                                            
                                              - 👀 I’m interested in Software developmet & ❤ Games
                                                  - 🌱 I’m currently learning new Technologies
                                                - 💞️ I’m looking to collaborate on future projects 
@@ -14,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
                                                        https://www.linkedin.com/in/arunraj98
 
-                                                              rajaarun384@gmail.com
+                                                             rajaarun384@gmail.com
 
                                                        https://www.instagram.com/ego_est_raj/
 
