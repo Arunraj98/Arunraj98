@@ -18,7 +18,8 @@
 
 - 📫 How to reach me **rajaarun384@gmail.com**
 
-- 📄 Know about my experiences [Arun_resume.pdf](https://github.com/Arunraj98/Arunraj98/files/8459244/Arun_resume.pdf)
+- 📄 Know about my experiences [Arun_resume.pdf](https://github.com/Arunraj98/Arunraj98/files/8495549/Arun_resume.pdf)
+
 
 </br>
 <hr>
