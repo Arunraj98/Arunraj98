@@ -62,3 +62,7 @@ ootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubuser
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=arunraj98&show_icons=true&locale=en" alt="arunraj98"/></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arunraj98&" alt="arunraj98"/></p>
 
+<hr>
+<h2><i> My Projects: </h2>
+<ul><li><a href="https://github.com/Arunraj98/Healthify"> Healthify </a>
+  <li><a href="https://github.com/Arunraj98/Restaurant-Management-System-"> RMS </a> </ul>
